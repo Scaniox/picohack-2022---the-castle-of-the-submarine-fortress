@@ -10,7 +10,7 @@
             "name": "Python:game",
             "type": "python",
             "request": "launch",
-            "program": "C:/Users/alexl/projects/picohack 2022/game/Main.py",
+            "program": "C:/Users/alexl/projects/picohack 2022/picohack-2022---the-castle-of-the-submarine-fortress/game/Main.py",
             "console": "integratedTerminal"
         },
 

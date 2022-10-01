@@ -133,6 +133,7 @@ class Game():
         self.main_screen.rescale()
         self.start_screen.rescale()
         self.pause_screen.rescale()
+        self.fail_screen.rescale()
         if self.end_screen:
             self.end_screen.rescale()
         if self.level:
