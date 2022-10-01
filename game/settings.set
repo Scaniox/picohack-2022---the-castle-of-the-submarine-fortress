@@ -1,0 +1,27 @@
+resolution|[1366, 768]
+rescaleable|True
+fullscreen|False
+vsync|False
+camera_zoom|10
+key_frame_count|10
+key_displacement|4
+game_vol|0.23948598130841123
+music_vol|0.24182242990654207
+player_step_snd_delay|300
+text_colour|(255, 255, 255)
+text_font_name|'PixeloidMono-1G8ae.ttf'
+player_hurt_cooldown|500
+player_max_health|5
+player_max_speed|0.05
+player_acc|0.3
+enemy_speed|0.02
+maze_blocks_start_proportion|0.08333333333333333
+maze_blocks_distance_proportion|0.16666666666666666
+maze_gateway_jitter|0
+maze_gateway_skip_threshold|0.2
+maze_branch_stop_threshold|0.05
+maze_key_count|6
+maze_checkpoint_count|5
+maze_enemy_count|6
+walls_width_px|16
+walls_height_px|24
